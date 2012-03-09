@@ -1,3 +1,8 @@
+---
+layout: default
+title: gridsurfer's page
+---
+
 Link to my blog
 ----------
 
