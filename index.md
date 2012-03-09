@@ -1,3 +1,4 @@
-# link to my blog
+Link to my blog
+----------
 
-* [my blog][http://www.currentstudio.net/]
+* [my blog(currentstudio.net)](http://www.currentstudio.net/)
